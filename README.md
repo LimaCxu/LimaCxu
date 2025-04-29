@@ -22,15 +22,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" alt="你的名字's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m18646461005&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m18646461005&theme=radical" />
 </p>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun Fact
 
@@ -39,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=m18646461005&style=flat-square&color=blue" alt="Profile Views" />
 </p>
