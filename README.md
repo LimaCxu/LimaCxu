@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  🌟 专注于网络设备管理和任务调度领域的开发者<br>
+  🌟 全栈开发者，专注于网络设备管理、任务调度和AI应用<br>
   🚀 热衷于开源项目，致力于通过技术解决实际问题<br>
-  📊 擅长 Python、FastAPI、Vue.js 等技术栈<br>
+  📊 擅长 Python、FastAPI、Vue.js、Telegram Bot 等技术栈<br>
+  🔧 专注于 SNMP 协议、设备监控、分布式任务调度和AI集成
 </p>
 
 ---
@@ -25,6 +26,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a> 
+  <a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a> 
 </p>
 
 ---
@@ -55,6 +57,19 @@
 基于 Funboost 框架开发的任务编排服务，专注于从数据库读取任务配置并通过 RabbitMQ 进行任务调度执行，支持定时任务调度和分布式任务处理。
 
 🔗 **仓库地址**: [fun_core_job](https://github.com/LimaCxu/fun_core_job)
+
+#### 4. GlasTaro - AI塔罗占卜机器人
+基于 FastAPI 框架开发的 Telegram 塔罗占卜机器人，结合 AI 技术为用户提供专业的塔罗牌解读和每日指导。
+
+**主要功能**：
+- 🤖 **AI智能解读**：基于 DeepSeek API，提供专业的塔罗牌解释
+- 🔮 **多种牌阵占卜**：支持单张牌、三张牌、爱情牌阵、事业牌阵等
+- 📅 **每日塔罗**：每天为用户提供塔罗牌指导和建议
+- 📚 **塔罗学习**：包含完整的78张塔罗牌详细介绍
+- 🌍 **多语言支持**：提供中文、英文、俄文等多种语言界面
+- 👤 **用户管理**：实现会话管理和请求频率限制
+
+🔗 **仓库地址**: [GlasTaro](https://github.com/LimaCxu/GlasTaro)
 
 ---
 
